@@ -1,4 +1,4 @@
-## *Project Overview*
+## **Project Overview**
 
 This project is an AI-powered email classifier that uses a local Large Language Model (LLM) via llama.cpp to categorize emails into predefined categories based on their content.
 
@@ -47,7 +47,7 @@ Mistral Instruct
 
 TinyLlama
 
-Dataset
+## **Dataset**
 
 The dataset contains emails with expected categories.
 
